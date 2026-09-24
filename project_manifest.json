@@ -1,0 +1,25 @@
+{
+  "project": "Capstone Assignment 2 - Selenium Python Framework",
+  "application": "https://automationexercise.com/",
+  "requirements": [
+    "Selenium WebDriver",
+    "Python",
+    "PyTest",
+    "unittest",
+    "POM",
+    "Utility Classes",
+    "Configuration Management",
+    "CSV Test Data",
+    "Screenshots on Failure",
+    "HTML Reporting"
+  ],
+  "core_flows": [
+    "Login",
+    "Product Search"
+  ],
+  "created_for": "guided feature-by-feature review",
+  "version": "1.2",
+  "runtime_corrections": [
+    "Corrected product-search test oracle to validate expected product fragment rather than requiring every returned product name to contain the literal search term."
+  ]
+}

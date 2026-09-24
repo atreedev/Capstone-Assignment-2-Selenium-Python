@@ -1,0 +1,65 @@
+2026-09-24 22:13:10 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:13:42 | INFO | conftest | Failure screenshot captured: reports\screenshots\test_login_page_is_reachable_20260924_221342_619523.png
+2026-09-24 22:13:42 | INFO | conftest | Closing browser
+2026-09-24 22:13:44 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:14:16 | WARNING | pages.base_page | Click intercepted for ('css selector', "button[data-qa='login-button']"); retrying after ad-overlay mitigation
+2026-09-24 22:14:17 | WARNING | pages.base_page | Normal retry still intercepted for ('css selector', "button[data-qa='login-button']"); using DOM click fallback
+2026-09-24 22:14:20 | INFO | conftest | Closing browser
+2026-09-24 22:14:22 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:14:23 | INFO | conftest | Closing browser
+2026-09-24 22:14:37 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:14:53 | INFO | conftest | Closing browser
+2026-09-24 22:14:56 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:15:09 | INFO | conftest | Closing browser
+2026-09-24 22:15:12 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:15:48 | INFO | conftest | Failure screenshot captured: reports\screenshots\test_product_search_from_csv_search_jean__20260924_221548_631531.png
+2026-09-24 22:15:48 | INFO | conftest | Closing browser
+2026-09-24 22:15:59 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:16:07 | INFO | conftest | Closing browser
+2026-09-24 22:16:09 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:16:20 | INFO | conftest | Closing browser
+2026-09-24 22:16:22 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:16:23 | INFO | conftest | Closing browser
+2026-09-24 22:16:37 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:16:58 | INFO | conftest | Closing browser
+2026-09-24 22:17:01 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:17:17 | WARNING | pages.base_page | Click intercepted for ('css selector', 'button#submit_search'); retrying after ad-overlay mitigation
+2026-09-24 22:17:18 | WARNING | pages.base_page | Normal retry still intercepted for ('css selector', 'button#submit_search'); using DOM click fallback
+2026-09-24 22:17:22 | INFO | conftest | Closing browser
+2026-09-24 22:17:24 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:17:56 | INFO | conftest | Failure screenshot captured: reports\screenshots\test_product_search_from_csv_search_jean__20260924_221755_973423.png
+2026-09-24 22:17:56 | INFO | conftest | Closing browser
+2026-09-24 22:18:16 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:18:47 | INFO | conftest | Failure screenshot captured: reports\screenshots\test_login_page_is_reachable_20260924_221847_508155.png
+2026-09-24 22:18:47 | INFO | conftest | Closing browser
+2026-09-24 22:18:49 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:18:54 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:19:24 | INFO | conftest | Closing browser
+2026-09-24 22:19:27 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:19:51 | WARNING | pages.base_page | Click intercepted for ('css selector', "button[data-qa='login-button']"); retrying after ad-overlay mitigation
+2026-09-24 22:19:52 | WARNING | pages.base_page | Normal retry still intercepted for ('css selector', "button[data-qa='login-button']"); using DOM click fallback
+2026-09-24 22:19:55 | INFO | conftest | Closing browser
+2026-09-24 22:19:58 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:19:59 | INFO | conftest | Closing browser
+2026-09-24 22:20:15 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:20:31 | WARNING | pages.base_page | Click intercepted for ('css selector', 'button#submit_search'); retrying after ad-overlay mitigation
+2026-09-24 22:20:33 | WARNING | pages.base_page | Normal retry still intercepted for ('css selector', 'button#submit_search'); using DOM click fallback
+2026-09-24 22:20:36 | INFO | conftest | Closing browser
+2026-09-24 22:20:39 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:20:58 | WARNING | pages.base_page | Click intercepted for ('css selector', 'button#submit_search'); retrying after ad-overlay mitigation
+2026-09-24 22:20:59 | WARNING | pages.base_page | Normal retry still intercepted for ('css selector', 'button#submit_search'); using DOM click fallback
+2026-09-24 22:21:03 | INFO | conftest | Closing browser
+2026-09-24 22:21:05 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:21:13 | INFO | conftest | Closing browser
+2026-09-24 22:31:01 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:31:13 | INFO | conftest | Closing browser
+2026-09-24 22:31:15 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:31:30 | INFO | conftest | Closing browser
+2026-09-24 22:31:33 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:31:56 | INFO | conftest | Closing browser
+2026-09-24 22:32:32 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:33:16 | INFO | conftest | Closing browser
+2026-09-24 22:33:18 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:34:06 | INFO | conftest | Closing browser
+2026-09-24 22:34:08 | INFO | conftest | Starting browser=chrome headless=False
+2026-09-24 22:35:11 | INFO | conftest | Closing browser

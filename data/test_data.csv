@@ -1,0 +1,4 @@
+test_case,search_term,expected_heading,expected_product_fragment,invalid_email,invalid_password
+product_search,top,Searched Products,Top,invalid_user_automationexercise@example.com,WrongPassword123!
+product_search,dress,Searched Products,Dress,invalid_user_automationexercise@example.com,WrongPassword123!
+product_search,jean,Searched Products,Jean,invalid_user_automationexercise@example.com,WrongPassword123!
